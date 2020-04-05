@@ -6,6 +6,8 @@ public class newdummyClassfordemo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is my dummy code ");
+		
+		System.out.println("hi");
 
 	}
 
